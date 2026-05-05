@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "924952529655",
+    "project_id": "crud-ecc07",
+    "storage_bucket": "crud-ecc07.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924952529655:android:5dc0489a1a940c76aa21f2",
+        "android_client_info": {
+          "package_name": "com.example.crudamazon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZppaI_Ogl9eAY0nB9Gf2FTYqHC2AHKzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
